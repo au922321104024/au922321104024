@@ -1,16 +1,18 @@
-## Hi there 👋
+# 👋 Hi there! I'm MUTHUKAMATCHI.K
 
-<!--
-**au922321104024/au922321104024** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I'm a B.E. CSE Graduate passionate about technology and building real-world applications.
 
-Here are some ideas to get you started:
+💻 Skills:
+- Programming Languages: Python, Java
+- Web Development: HTML, CSS, JavaScript
+- Database: SQL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Career Interests:
+Aspiring Software Developer | Web Developer | Full Stack Developer | Python Developer
+
+📍 Location: K. Pudukottai, Dindigul, Tamil Nadu  
+📬 Open to work and eager to learn, grow, and contribute to the tech industry
+
+🔗 Connect with me:
+- GitHub: https://github.com/au922321104024
+- LinkedIn: https://www.linkedin.com/in/muthukamatchi-k-9a8a0929b
